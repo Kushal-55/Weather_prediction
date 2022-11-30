@@ -1,4 +1,4 @@
-# Q1. Summary
+# Summary
 
 In my project, I have implemented several major classification models on a rain prediction dataset and I have also used RNNs and Linear regression for stock analysis and prediction.
 
@@ -30,7 +30,7 @@ Methods used -
 * RNN with LSTM
 
 
-# Q2. Dataset Description
+# Dataset Description
 
 ## Dataset Description
 
@@ -91,7 +91,7 @@ Since my dataset only contains 7 features -
 | Open                  | 0.980 |
 | Volume                 | 0.471 |
 
-# Q3. Details
+# Details
 
 # Part 1
 
